@@ -23,7 +23,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "e-bookprozatextkurzivadoprava\ne-bookprozatextuprostredkurziva\nstyltextkurzvazarovnnnastedvlevo07cmprvnd\nstyltextkurzvazarovnnnastedvlevo07cmprvnd1\nstyltextkurzvazarovnnnastedvlevo07cmprvnd2\nstyltextkurzvazarovnnnastedvlevo07cmprvnd3\nstyltextkurzvazarovnnnastedvlevo07cmprvndcxspfirst\nstyltextkurzvazarovnnnastedvlevo07cmprvndcxsplast",
+      "em": "e-bookprozatextkurzivadoprava\ne-bookprozatextuprostredkurziva\nstyltextkurzvazarovnnnastedvlevo07cmprvnd\nstyltextkurzvazarovnnnastedvlevo07cmprvnd1\nstyltextkurzvazarovnnnastedvlevo07cmprvnd2\nstyltextkurzvazarovnnnastedvlevo07cmprvnd3\nstyltextkurzvazarovnnnastedvlevo07cmprvndcxspfirst\nstyltextkurzvazarovnnnastedvlevo07cmprvndcxsplast\ne-booktirazacitacetextkurzivachar",
       "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
       "remove": "",
       "ignore": ""
@@ -32,14 +32,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "maj_001.md",
             "xhtml": "maj_001.htm",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -47,9 +48,9 @@
             "filename": "maj_002.md",
             "xhtml": "maj_002.htm",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -57,9 +58,9 @@
             "filename": "maj_003.md",
             "xhtml": "maj_003.htm",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -67,9 +68,9 @@
             "filename": "maj_004.md",
             "xhtml": "maj_004.htm",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -80,8 +81,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "maj_006.md",
@@ -90,8 +92,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Čechové jsou národ..."
           },
           {
             "filename": "maj_007.md",
@@ -101,7 +104,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I."
           },
           {
             "filename": "maj_008.md",
@@ -111,7 +115,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II."
           },
           {
             "filename": "maj_009.md",
@@ -121,7 +126,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "INTERMEZZO I."
           },
           {
             "filename": "maj_010.md",
@@ -131,7 +137,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III."
           },
           {
             "filename": "maj_011.md",
@@ -141,7 +148,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "INTERMEZZO II."
           },
           {
             "filename": "maj_012.md",
@@ -151,7 +159,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IV."
           },
           {
             "filename": "maj_013.md",
@@ -160,8 +169,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Poznamenání K.H.M"
           },
           {
             "filename": "maj_014.md",
@@ -170,16 +180,17 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "maj_015.md",
             "xhtml": "maj_015.htm",
             "id": 14,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -193,7 +204,7 @@
       "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-15T13:21:35.961Z"
+      "modified": "2022-01-15T13:32:40.201Z"
     },
     "chapters": [
       {
@@ -382,6 +393,6 @@
       "user": "books-are-next",
       "repo": "maj"
     },
-    "generatedAt": 1642252896244
+    "generatedAt": 1642253560490
   }
 }
