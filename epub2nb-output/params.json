@@ -1,11 +1,199 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Máj",
+      "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
+      "author": "Karel Hynek Mácha",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-15T11:28:35.232Z",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "e-booknadpis\ne-booknadpis3probasne",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "e-bookprozatextkurzivadoprava\ne-bookprozatextuprostredkurziva\nstyltextkurzvazarovnnnastedvlevo07cmprvnd\nstyltextkurzvazarovnnnastedvlevo07cmprvnd1\nstyltextkurzvazarovnnnastedvlevo07cmprvnd2\nstyltextkurzvazarovnnnastedvlevo07cmprvnd3\nstyltextkurzvazarovnnnastedvlevo07cmprvndcxspfirst\nstyltextkurzvazarovnnnastedvlevo07cmprvndcxsplast",
+      "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "maj_001.md",
+            "xhtml": "maj_001.htm",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_002.md",
+            "xhtml": "maj_002.htm",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_003.md",
+            "xhtml": "maj_003.htm",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_004.md",
+            "xhtml": "maj_004.htm",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_005.md",
+            "xhtml": "maj_005.htm",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_006.md",
+            "xhtml": "maj_006.htm",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_007.md",
+            "xhtml": "maj_007.htm",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_008.md",
+            "xhtml": "maj_008.htm",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_009.md",
+            "xhtml": "maj_009.htm",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_010.md",
+            "xhtml": "maj_010.htm",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_011.md",
+            "xhtml": "maj_011.htm",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_012.md",
+            "xhtml": "maj_012.htm",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_013.md",
+            "xhtml": "maj_013.htm",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_014.md",
+            "xhtml": "maj_014.htm",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "maj_015.md",
+            "xhtml": "maj_015.htm",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Máj",
       "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-15T11:28:35.232Z"
+      "modified": "2022-01-15T13:21:35.961Z"
     },
     "chapters": [
       {
@@ -45,37 +233,37 @@
         "xhtml": "maj_006.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I.",
         "subtitleSuggest": "",
         "filename": "maj_007.md",
         "xhtml": "maj_007.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II.",
         "subtitleSuggest": "",
         "filename": "maj_008.md",
         "xhtml": "maj_008.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "INTERMEZZO I.",
         "subtitleSuggest": "",
         "filename": "maj_009.md",
         "xhtml": "maj_009.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III.",
         "subtitleSuggest": "",
         "filename": "maj_010.md",
         "xhtml": "maj_010.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "INTERMEZZO II.",
         "subtitleSuggest": "",
         "filename": "maj_011.md",
         "xhtml": "maj_011.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV.",
         "subtitleSuggest": "",
         "filename": "maj_012.md",
         "xhtml": "maj_012.htm"
@@ -194,6 +382,6 @@
       "user": "books-are-next",
       "repo": "maj"
     },
-    "generatedAt": 1642246115493
+    "generatedAt": 1642252896244
   }
 }

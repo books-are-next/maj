@@ -1,0 +1,344 @@
+{
+  "author": "Karel Hynek Mácha",
+  "identifier": "macha-maj-fd6237a",
+  "languagecode": "cs",
+  "modified": "2022-01-15T11:28:35.232Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Máj",
+  "revision": "fd6237a",
+  "generatedAt": {
+    "date": "Sat Jan 15 2022 13:22:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642252948862
+  },
+  "documents": [
+    {
+      "title": "Máj",
+      "file": "maj_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "maj_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "maj_001.html",
+      "next": "maj_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_003.html",
+      "words": 4,
+      "chars": 20,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "maj_002.html",
+      "next": "maj_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_004.html",
+      "words": 113,
+      "chars": 785,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "maj_003.html",
+      "next": "maj_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_005.html",
+      "words": 16,
+      "chars": 124,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "maj_004.html",
+      "next": "maj_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_006.html",
+      "words": 196,
+      "chars": 1019,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 5,
+      "prev": "maj_005.html",
+      "next": "maj_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. • Máj",
+      "file": "maj_007.html",
+      "words": 764,
+      "chars": 4004,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 6,
+      "prev": "maj_006.html",
+      "next": "maj_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. • Máj",
+      "file": "maj_008.html",
+      "words": 1452,
+      "chars": 7313,
+      "ideas": 280,
+      "role": "chapter",
+      "order": 7,
+      "prev": "maj_007.html",
+      "next": "maj_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "INTERMEZZO I. • Máj",
+      "file": "maj_009.html",
+      "words": 390,
+      "chars": 2160,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 8,
+      "prev": "maj_008.html",
+      "next": "maj_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "INTERMEZZO I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. • Máj",
+      "file": "maj_010.html",
+      "words": 1234,
+      "chars": 6492,
+      "ideas": 189,
+      "role": "chapter",
+      "order": 9,
+      "prev": "maj_009.html",
+      "next": "maj_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "INTERMEZZO II. • Máj",
+      "file": "maj_011.html",
+      "words": 226,
+      "chars": 1272,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 10,
+      "prev": "maj_010.html",
+      "next": "maj_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "INTERMEZZO II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. • Máj",
+      "file": "maj_012.html",
+      "words": 685,
+      "chars": 3641,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 11,
+      "prev": "maj_011.html",
+      "next": "maj_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_013.html",
+      "words": 114,
+      "chars": 678,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 12,
+      "prev": "maj_012.html",
+      "next": "maj_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznamenání K.H.M",
+              "id": "poznamenání-khm",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_014.html",
+      "words": 117,
+      "chars": 761,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 13,
+      "prev": "maj_013.html",
+      "next": "maj_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ediční poznámka",
+              "id": "ediční-poznámka",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Máj",
+      "file": "maj_015.html",
+      "words": 35,
+      "chars": 203,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 14,
+      "prev": "maj_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 5352,
+      "chars": 28500,
+      "ideas": 946
+    },
+    "chapters": {
+      "words": 5346,
+      "chars": 28472,
+      "ideas": 942
+    }
+  }
+}
