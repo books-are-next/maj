@@ -11,10 +11,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - maj_001.html
   - maj_002.html
-  - maj_003.html
-  - maj_004.html
   - maj_005.html
   - maj_006.html
   - maj_007.html
@@ -25,11 +22,42 @@ readingOrder:
   - maj_012.html
   - maj_013.html
   - maj_014.html
-  - maj_015.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: maj_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: maj_006.html
+        title: Čechové jsou národ...
+        hiddenTitle: true
+      - link: maj_007.html
+        title: I.
+        hiddenTitle: false
+      - link: maj_008.html
+        title: II.
+        hiddenTitle: false
+      - link: maj_009.html
+        title: INTERMEZZO I.
+        hiddenTitle: false
+      - link: maj_010.html
+        title: III.
+        hiddenTitle: false
+      - link: maj_011.html
+        title: INTERMEZZO II.
+        hiddenTitle: false
+      - link: maj_012.html
+        title: IV.
+        hiddenTitle: false
+      - link: maj_013.html
+        title: Poznamenání K.H.M
+        hiddenTitle: true
+      - link: maj_014.html
+        title: Ediční poznámka
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
