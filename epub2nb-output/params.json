@@ -1,0 +1,199 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Máj",
+      "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
+      "author": "Karel Hynek Mácha",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-15T11:28:35.232Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_001.md",
+        "xhtml": "maj_001.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_002.md",
+        "xhtml": "maj_002.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_003.md",
+        "xhtml": "maj_003.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_004.md",
+        "xhtml": "maj_004.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_005.md",
+        "xhtml": "maj_005.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_006.md",
+        "xhtml": "maj_006.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_007.md",
+        "xhtml": "maj_007.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_008.md",
+        "xhtml": "maj_008.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_009.md",
+        "xhtml": "maj_009.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_010.md",
+        "xhtml": "maj_010.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_011.md",
+        "xhtml": "maj_011.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_012.md",
+        "xhtml": "maj_012.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_013.md",
+        "xhtml": "maj_013.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_014.md",
+        "xhtml": "maj_014.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "maj_015.md",
+        "xhtml": "maj_015.htm"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "calibre8",
+      "calibre9",
+      "e-booklicenceobrazek",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis",
+      "e-booknadpis3probasne",
+      "e-bookodsazeniodstavcepredaza",
+      "e-bookodsazeniodstavceza",
+      "e-bookprozatext",
+      "e-bookprozatext1",
+      "e-bookprozatextkurzivadoprava",
+      "e-bookprozatextuprostred",
+      "e-bookprozatextuprostredkurziva",
+      "e-booktextvenovanicxspfirst",
+      "e-booktextvenovanicxsplast",
+      "e-booktextvenovanicxspmiddle",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookversebezpredsazeni6bza",
+      "pcalibre",
+      "pcalibre1",
+      "styltextkurzvazarovnnnastedvlevo07cmprvnd",
+      "styltextkurzvazarovnnnastedvlevo07cmprvnd1",
+      "styltextkurzvazarovnnnastedvlevo07cmprvnd2",
+      "styltextkurzvazarovnnnastedvlevo07cmprvnd3",
+      "styltextkurzvazarovnnnastedvlevo07cmprvndcxspfirst",
+      "styltextkurzvazarovnnnastedvlevo07cmprvndcxsplast",
+      "text",
+      "text1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "maj"
+    },
+    "generatedAt": 1642246115493
+  }
+}

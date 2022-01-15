@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="ces" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="f61949b5-6de5-4489-a86d-5e4d1463d1b4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.60.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Máj</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="umIEzt5pmYc3e35NBEZ6lpF" playOrder="1">
+      <navLabel>
+        <text>I.</text>
+      </navLabel>
+      <content src="Text/maj_007.htm"/>
+    </navPoint>
+    <navPoint id="uV7bc82vvjJ9UuyEt6LFlgE" playOrder="2">
+      <navLabel>
+        <text>II.</text>
+      </navLabel>
+      <content src="Text/maj_008.htm"/>
+    </navPoint>
+    <navPoint id="uPbSXOdYuQ9HquNGVRRpnEC" playOrder="3">
+      <navLabel>
+        <text>INTERMEZZO I.</text>
+      </navLabel>
+      <content src="Text/maj_009.htm"/>
+    </navPoint>
+    <navPoint id="uDMdJmx8JNBZwdA4tvZ5Ue3" playOrder="4">
+      <navLabel>
+        <text>III.</text>
+      </navLabel>
+      <content src="Text/maj_010.htm"/>
+    </navPoint>
+    <navPoint id="uZtm98mSsVfCZQjVZUvmro3" playOrder="5">
+      <navLabel>
+        <text>INTERMEZZO II.</text>
+      </navLabel>
+      <content src="Text/maj_011.htm"/>
+    </navPoint>
+    <navPoint id="uk8y73QqwnSEAM9nUyQxw73" playOrder="6">
+      <navLabel>
+        <text>IV.</text>
+      </navLabel>
+      <content src="Text/maj_012.htm"/>
+    </navPoint>
+    <navPoint id="u769v3wxO6LCeRKcwRbdzvF" playOrder="7">
+      <navLabel>
+        <text>Poznamenání K. H. M.</text>
+      </navLabel>
+      <content src="Text/maj_013.htm"/>
+    </navPoint>
+    <navPoint id="uzRefaYMsSzVbdRxi92rY3A" playOrder="8">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/maj_014.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>
