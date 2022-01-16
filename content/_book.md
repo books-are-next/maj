@@ -50,12 +50,6 @@ tocBase:
       - link: maj_012.html
         title: IV.
         hiddenTitle: false
-      - link: maj_013.html
-        title: Poznamenání K.H.M
-        hiddenTitle: true
-      - link: maj_014.html
-        title: Ediční poznámka
-        hiddenTitle: true
     isSection: true
     listType: plain
 static:
