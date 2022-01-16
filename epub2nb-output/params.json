@@ -169,8 +169,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "title": "",
+            "hiddenTitle": true,
+            "title": "Poznamenání K.H.M",
             "children": []
           },
           {
@@ -180,8 +180,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "title": "",
+            "hiddenTitle": true,
+            "title": "Ediční poznámka",
             "children": []
           },
           {
@@ -204,7 +204,7 @@
       "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-16T17:40:51.817Z"
+      "modified": "2022-01-16T17:48:29.088Z"
     },
     "chapters": [
       {
@@ -393,6 +393,6 @@
       "user": "books-are-next",
       "repo": "maj"
     },
-    "generatedAt": 1642354852110
+    "generatedAt": 1642355309385
   }
 }
