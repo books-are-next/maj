@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Máj
@@ -11,7 +12,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - maj_002.html
+  - promo.html
   - maj_005.html
   - maj_006.html
   - maj_007.html
