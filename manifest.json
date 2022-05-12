@@ -1,20 +1,36 @@
 {
-  "author": "Karel Hynek Mácha",
-  "identifier": "macha-maj-510a5be",
-  "languagecode": "cs",
-  "modified": "2022-01-15T11:28:35.232Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Máj",
-  "revision": "510a5be",
+  "author": "Karel Hynek Mácha",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "macha-maj-9f488a4",
+  "revision": "9f488a4",
+  "readingOrder": [
+    "promo.html",
+    "maj_005.html",
+    "maj_006.html",
+    "maj_007.html",
+    "maj_008.html",
+    "maj_009.html",
+    "maj_010.html",
+    "maj_011.html",
+    "maj_012.html",
+    "maj_013.html",
+    "maj_014.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Jan 16 2022 17:49:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642355362191
+    "date": "Thu May 12 2022 10:37:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351873634
   },
   "documents": [
     {
-      "title": "Máj",
-      "file": "maj_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -22,15 +38,7 @@
       "order": 0,
       "prev": null,
       "next": "maj_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Máj",
@@ -40,7 +48,7 @@
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "maj_002.html",
+      "prev": "promo.html",
       "next": "maj_006.html",
       "toc": [
         {
@@ -73,7 +81,7 @@
       ]
     },
     {
-      "title": "I. • Máj",
+      "title": "I.",
       "file": "maj_007.html",
       "words": 764,
       "chars": 4004,
@@ -93,7 +101,7 @@
       ]
     },
     {
-      "title": "II. • Máj",
+      "title": "II.",
       "file": "maj_008.html",
       "words": 1452,
       "chars": 7313,
@@ -113,7 +121,7 @@
       ]
     },
     {
-      "title": "INTERMEZZO I. • Máj",
+      "title": "INTERMEZZO I.",
       "file": "maj_009.html",
       "words": 390,
       "chars": 2160,
@@ -133,7 +141,7 @@
       ]
     },
     {
-      "title": "III. • Máj",
+      "title": "III.",
       "file": "maj_010.html",
       "words": 1234,
       "chars": 6492,
@@ -153,7 +161,7 @@
       ]
     },
     {
-      "title": "INTERMEZZO II. • Máj",
+      "title": "INTERMEZZO II.",
       "file": "maj_011.html",
       "words": 226,
       "chars": 1272,
@@ -173,7 +181,7 @@
       ]
     },
     {
-      "title": "IV. • Máj",
+      "title": "IV.",
       "file": "maj_012.html",
       "words": 685,
       "chars": 3641,
@@ -249,11 +257,11 @@
       ]
     },
     {
-      "title": "Tiráž • Máj",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 153,
-      "chars": 1013,
-      "ideas": 21,
+      "words": 130,
+      "chars": 829,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "maj_014.html",
@@ -271,9 +279,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5352,
-      "chars": 28500,
-      "ideas": 946
+      "words": 5329,
+      "chars": 28316,
+      "ideas": 940
     },
     "chapters": {
       "words": 5194,

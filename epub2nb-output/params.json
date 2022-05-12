@@ -48,7 +48,7 @@
             "filename": "maj_002.md",
             "xhtml": "maj_002.htm",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -204,7 +204,7 @@
       "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-16T17:48:29.088Z"
+      "modified": "2016-11-29T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -244,37 +244,37 @@
         "xhtml": "maj_006.htm"
       },
       {
-        "titleSuggest": "I.",
+        "titleSuggest": "I\\.",
         "subtitleSuggest": "",
         "filename": "maj_007.md",
         "xhtml": "maj_007.htm"
       },
       {
-        "titleSuggest": "II.",
+        "titleSuggest": "II\\.",
         "subtitleSuggest": "",
         "filename": "maj_008.md",
         "xhtml": "maj_008.htm"
       },
       {
-        "titleSuggest": "INTERMEZZO I.",
+        "titleSuggest": "INTERMEZZO I\\.",
         "subtitleSuggest": "",
         "filename": "maj_009.md",
         "xhtml": "maj_009.htm"
       },
       {
-        "titleSuggest": "III.",
+        "titleSuggest": "III\\.",
         "subtitleSuggest": "",
         "filename": "maj_010.md",
         "xhtml": "maj_010.htm"
       },
       {
-        "titleSuggest": "INTERMEZZO II.",
+        "titleSuggest": "INTERMEZZO II\\.",
         "subtitleSuggest": "",
         "filename": "maj_011.md",
         "xhtml": "maj_011.htm"
       },
       {
-        "titleSuggest": "IV.",
+        "titleSuggest": "IV\\.",
         "subtitleSuggest": "",
         "filename": "maj_012.md",
         "xhtml": "maj_012.htm"
@@ -393,6 +393,6 @@
       "user": "books-are-next",
       "repo": "maj"
     },
-    "generatedAt": 1642355309385
+    "generatedAt": 1652351384329
   }
 }
