@@ -1,13 +1,14 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "poetry",
       "title": "Máj",
       "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-15T11:28:35.232Z",
-      "publisherShort": "mkp",
-      "languageCode": "cs"
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "e-booknadpis\ne-booknadpis3probasne",
@@ -196,7 +197,8 @@
           }
         ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -204,7 +206,7 @@
       "identifier": "f61949b5-6de5-4489-a86d-5e4d1463d1b4",
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-16T17:40:51.817Z"
+      "modified": "2016-11-29T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -244,37 +246,37 @@
         "xhtml": "maj_006.htm"
       },
       {
-        "titleSuggest": "I.",
+        "titleSuggest": "I\\.",
         "subtitleSuggest": "",
         "filename": "maj_007.md",
         "xhtml": "maj_007.htm"
       },
       {
-        "titleSuggest": "II.",
+        "titleSuggest": "II\\.",
         "subtitleSuggest": "",
         "filename": "maj_008.md",
         "xhtml": "maj_008.htm"
       },
       {
-        "titleSuggest": "INTERMEZZO I.",
+        "titleSuggest": "INTERMEZZO I\\.",
         "subtitleSuggest": "",
         "filename": "maj_009.md",
         "xhtml": "maj_009.htm"
       },
       {
-        "titleSuggest": "III.",
+        "titleSuggest": "III\\.",
         "subtitleSuggest": "",
         "filename": "maj_010.md",
         "xhtml": "maj_010.htm"
       },
       {
-        "titleSuggest": "INTERMEZZO II.",
+        "titleSuggest": "INTERMEZZO II\\.",
         "subtitleSuggest": "",
         "filename": "maj_011.md",
         "xhtml": "maj_011.htm"
       },
       {
-        "titleSuggest": "IV.",
+        "titleSuggest": "IV\\.",
         "subtitleSuggest": "",
         "filename": "maj_012.md",
         "xhtml": "maj_012.htm"
@@ -393,6 +395,6 @@
       "user": "books-are-next",
       "repo": "maj"
     },
-    "generatedAt": 1642354852110
+    "generatedAt": 1652351384329
   }
 }
