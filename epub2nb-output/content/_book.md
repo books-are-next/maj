@@ -4,13 +4,14 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Máj
   identifier: f61949b5-6de5-4489-a86d-5e4d1463d1b4
   author: Karel Hynek Mácha
   publisher: Městská knihovna v Praze
   modified: '2022-01-15T11:28:35.232Z'
   publisherShort: mkp
-  languageCode: cs
 readingOrder:
   - promo.html
   - maj_005.html
