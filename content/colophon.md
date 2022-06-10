@@ -2,17 +2,15 @@
 title: Tiráž
 ---
 
+<section>  
 **Karel Hynek Mácha**  
 **Máj**  
 Edice E-knihovna  
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 17. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla Máj, tak jak bylo vydáno Dr. Františkem Bačkovským v Praze v roce 1905 (MÁCHA, Karel Hynek. _Máj_. Praha: Dr. František Bačkovský, 1905. 48 s.).
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -28,4 +26,4 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-MÁCHA, Karel Hynek. _Máj_ \[online\]. V MKP 2. opravené vyd. Praha: Městská knihovna v Praze, 2016 \[cit. 17. 5. 2022]. ISBN 978-80-7532-470-2 (epub). Dostupné z: <next-book-url>
+MÁCHA, Karel Hynek. _Máj_ \[online\]. V MKP 2. opravené vyd. Praha: Městská knihovna v Praze, 2016 \[cit. 10. 6. 2022]. ISBN 978-80-7532-470-2 (epub). Dostupné z: <next-book-url>
