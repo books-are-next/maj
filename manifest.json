@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "macha-maj-ec8c6e3",
-  "revision": "ec8c6e3",
+  "identifier": "macha-maj-99b3281",
+  "revision": "99b3281",
   "readingOrder": [
     "promo.html",
     "maj_005.html",
@@ -24,8 +24,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:55:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157354468
+    "date": "Tue Jun 14 2022 23:30:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655249447054
   },
   "documents": [
     {
@@ -259,9 +259,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 829,
-      "ideas": 15,
+      "words": 154,
+      "chars": 1018,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "maj_014.html",
@@ -279,9 +279,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5329,
-      "chars": 28316,
-      "ideas": 940
+      "words": 5353,
+      "chars": 28505,
+      "ideas": 942
     },
     "chapters": {
       "words": 5194,
