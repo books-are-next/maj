@@ -8,7 +8,8 @@
       "author": "Karel Hynek Mácha",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-15T11:28:35.232Z",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
       "title": "e-booknadpis\ne-booknadpis3probasne",
@@ -394,6 +395,6 @@
       "user": "books-are-next",
       "repo": "maj"
     },
-    "generatedAt": 1655271646060
+    "generatedAt": 1655364271739
   }
 }
