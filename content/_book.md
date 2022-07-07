@@ -25,7 +25,7 @@ readingOrder:
   - maj_012.html
   - maj_013.html
   - maj_014.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
