@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "macha-maj-ffbe16c",
-  "revision": "ffbe16c",
+  "identifier": "macha-maj-58fca38",
+  "revision": "58fca38",
   "readingOrder": [
     "promo.html",
     "maj_005.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:02:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188161967
+    "date": "Thu Jul 21 2022 14:37:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414220897
   },
   "documents": [
     {
@@ -261,7 +261,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 154,
-      "chars": 1016,
+      "chars": 1018,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -281,7 +281,7 @@
   "totals": {
     "all": {
       "words": 5354,
-      "chars": 28509,
+      "chars": 28511,
       "ideas": 943
     },
     "chapters": {
