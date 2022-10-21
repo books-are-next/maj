@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "macha-maj-fe65f2c",
-  "revision": "fe65f2c",
+  "identifier": "macha-maj-331999d",
+  "revision": "331999d",
   "readingOrder": [
     "promo.html",
     "maj_005.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:57:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417471123
+    "date": "Fri Oct 21 2022 11:36:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352218861
   },
   "documents": [
     {
